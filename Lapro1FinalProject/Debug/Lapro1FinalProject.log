@@ -1,0 +1,5 @@
+﻿  Lapro1FinalProject.c
+c:\users\hyung tea\source\repos\lapro1finalproject\lapro1finalproject\lapro1finalproject.c(63): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hyung tea\source\repos\lapro1finalproject\lapro1finalproject\lapro1finalproject.c(87): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\hyung tea\source\repos\lapro1finalproject\lapro1finalproject\lapro1finalproject.c(57): warning C4101: 'tipo': unreferenced local variable
+  Lapro1FinalProject.vcxproj -> c:\users\hyung tea\source\repos\Lapro1FinalProject\Debug\Lapro1FinalProject.exe
