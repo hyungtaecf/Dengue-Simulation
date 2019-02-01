@@ -1,4 +1,4 @@
-# Dengue-Simulation
+# Dengue Simulation
 2011 Programming Laboratory 1 Final Assignment
 
 It is a simulation of a dengue epidemic.
