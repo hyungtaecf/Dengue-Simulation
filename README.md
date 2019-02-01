@@ -1,9 +1,9 @@
 # Dengue Simulation
 2011 Programming Laboratory 1 Final Assignment
 
-It is a simulation of a dengue epidemic.
+It is a simulation of a <a href="https://en.wikipedia.org/wiki/Dengue_fever">dengue fever</a> epidemic.
 
-When the program starts, one can choose the number of male mosquitoes (M), female mosquitoes (F), people (P) and agents (A).
+When the program starts, one can choose the number of male mosquitoes (M), female mosquitoes (F), people (P) and agents (A). You can also choose whether to shift turns manually or automatically, and their speed in milliseconds if automatically.
 
 The simulation takes place in turns. At each turn people and mosquitoes move a space randomly in any direction. Agents move only one space to the right with each turn. When they reach the edge of the screen, they go to position 0 of the next line.
 
