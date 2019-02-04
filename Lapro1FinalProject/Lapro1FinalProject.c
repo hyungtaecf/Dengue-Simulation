@@ -61,6 +61,7 @@ main() {
 		eggkill = 0/*Ovos mortos pelos agentes*/, born = 0/*Novos mosquitos*/, s=0/*Segundos por ciclo*/, celulas = 1,/*Casas disponíveis*/cont;//Contador/Variável auxiliar
 	float s2=1;//aux para s
 	srand(time(NULL));
+	//SetConsoleOutputCP(65001); //Tentativa falha de fazer p console aceitar utf-8 programaticamente
 	for (c = 0; c < 20; c++) for (l = 0; l < 20; l++) city[l][c] = ' ';//Declarando todas as casas como "vazio"
 	printf("\n\n\tEpidemia da Dengue\n\t\tpor Hyung Tae C. Figur\n\n\n\t- Configurações:\n\n\t\tNúmero de pessoas: ");//Inserindo pessoas no ambiente
 	scanf("%d", &P);

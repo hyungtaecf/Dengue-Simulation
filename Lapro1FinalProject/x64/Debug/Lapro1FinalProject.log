@@ -1,0 +1,5 @@
+﻿  Lapro1FinalProject.c
+c:\users\htcf\documents\github\dengue-simulation\lapro1finalproject\lapro1finalproject.c(63): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\htcf\documents\github\dengue-simulation\lapro1finalproject\lapro1finalproject.c(88): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\htcf\documents\github\dengue-simulation\lapro1finalproject\lapro1finalproject.c(57): warning C4101: 'tipo': unreferenced local variable
+  Lapro1FinalProject.vcxproj -> C:\Users\HTCF\Documents\GitHub\Dengue-Simulation\x64\Debug\Lapro1FinalProject.exe
